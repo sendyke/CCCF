@@ -1,0 +1,410 @@
+"Taxon","Subtaxon","Family","Scientific.Name","Common.Name","ESA","MESA","IUCN","RSGCN","G.Rank","S.Rank","USFWS","SGCN","BHHA","Priority.at.risk.Species","CCVA","CCVA.Source","Pop..Trend","Threats","Description.of.Threats","Other","Total...of.Sources","Thresholds","Rank","Climate Vulnerability"
+"Algae","","Ulotrichaceae","Acrosiphonia arcta","Green tarantula weed",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulotrichaceae","Acrosiphonia spinescens","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Solieriaceae","Agardhiella subulata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Agaraceae","Agarum clathratum","Kelp",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ahnfeltiaceae","Ahnfeltia plicata","Landlady's wig",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Alariaceae","Alaria esculenta","Dabberlocks, winged kelp",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Ascophyllum nodosum","Rockweed/Knotted kelp",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Bangiaceae","Bangia atropurpurea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Sphacelariaceae","Battersia arctica","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Berkeleyaceae","Berkeleya rutilans","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Monostromataceae","Blidingia minima",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Kallymeniaceae","Callocolax neglectus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ceramiaceae","Ceramium cimbricum","Banded Weed (red alga)",NA,NA,NA,NA,NA,NA,NA,"N","",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ceramiaceae","Ceramium virgatum","Banded Weed (red alga)",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Chaetomorpha brachygona","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Chaetomorpha ligustica","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Chaetomorpha linum","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Chaetomorpha melagonium","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Chaetomorpha picquotiana","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Champiaceae","Champia parvula","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Gigartinaceae","Chondrus crispus","Irish moss",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordaceae","Chorda filum","Dead mans rope, sea lace",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Chordaria flagelliformis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Cladophora rupestris","Green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Cladophora sericea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Mesophyllaceae","Clathromorphum circumscriptum","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Corallinaceae","Corallina officinalis","Coral weed",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cystocloniaceae","Cystoclonium purpureum","Purple claw weed",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Desmarestiaceae","Dasya baillouviana",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Desmarestiaceae","Desmarestia aculeata","Color changer, sea sorrel",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Desmarestiaceae","Desmarestia viridis","Stringy acid kept",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Dictyosiphon foeniculaceus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ectocarpaceae","Ectocarpus fasciculatus",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ectocarpaceae","Ectocarpus siliculosus",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Elachista fucicola","Tiny wrack bush",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Erythrotrichiaceae","Erythrotrichia carnea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Kallymeniaceae","Euthora cristata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus distichus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus distichus edentatus","Sea wrack",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus distichus evanescens","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus spiralis","Spiral wrack",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus vesiculosus","Rockweed/Bladder wrack",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Fucaceae","Fucus vesiculosus forma mytilii","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Gayraliacae","Gayralia oxysperma","NA - green algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Gomontiaceae","Gomontia polyrhiza","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Gracilariaceae","Gracilaria tikvahiae","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Delesseriaceae","Grinnellia americana","Grinnell's Pink Lead",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Phyllophoraceae","Gymnogongrus crenulatus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordaceae","Halosiphon tomentosus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Hildenbrandiaceae","Hildenbrandia rubra","Rusty rock",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Acinetosporaceae","Hincksia granulosa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Laminariaceae","Laminaria digitata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Leathesia marina","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Lithothamniaceae","Lithothamnion glaciale","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Oscillatoriaceae","Lyngbya confervoides","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Phyllophoraceae","Mastocarpus stellatus","False Irish Moss",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Palmariaceae","Palmaria palmata","Dulse",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Scytosiphonaceae ","Petalonia fascia","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Delesseriaceae","Phycodrys rubens","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Phyllophoraceae","Phyllophora pseudoceranoides","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Lithothamniaceae","Phymatolithon lenormandii","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Callithamniaceae","Plumaria plumosa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Bangiaceae","Porphyra leucostricta","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Bangiaceae","Porphyra purpurea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Bangiaceae","Porphyra umbilicalis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Prasiolaceae","Prasiola stipitata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Kornmanniaceae","Pseudendoclonium submarinum","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Lithodermataceae","Pseudolithoderma extensum","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Punctaria latifolia","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Chordariaceae","Punctaria plantaginea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Acinetosporaceae","Pylaiella littoralis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Bangiaceae","Pyropia leucosticta","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ralfsiaceae","Ralfsia verrucosa","Crustose brown algae",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Rhizoclonium riparium","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Cladophoraceae","Rhizoclonium tortuosum","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Rhodomelaceae","Rhodomela confervoides","Straggly bush weed",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Laminariaceae","Saccharina latissima","Sugar kelp",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Laminariaceae","Saccharina longicruris","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Rivulariaceae ","Scytonematopsis crustacea ","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Scytosiphonaceae","Scytosiphon lomentaria","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Scytosiphonaceae","Stragularia clavata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Stylonemataceae","Stylonema alsidii","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulotrichaceae","Ulothrix flacca","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulva clathrata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulva intestinalis","Gutweed",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulva lactuca","Sea lettuce",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulva linza","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulva prolifera","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulvaceae","Ulvaria obscura","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Ulotrichaceae","Urospora penicilliformis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Algae","","Rhodomelaceae","Vertebrata lanosa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Bird","Shorebird","Scolopacidae","Actitis macularius","Spotted sandpiper",NA,NA,1,NA,1,2,NA,"N","","N","M","Mass Audubon 2019","Decreasing",NA,NA,NA,3,"N",1.33333333333333,3
+"Bird","Seabird","Alcidae","Alca torda","Razorbill",NA,NA,2,NA,1,2,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;INV;POL;CC","Mining & quarrying, renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, invasive non-native/alien species/diseases, industrial & military effluents, temperature extremes, and storms & flooding",NA,3,"N",1.66666666666667,NA
+"Bird","Shorebird","Emberizidae","Ammodramus caudacutus","Saltmarsh sparrow",NA,3,4,5,4,3,2,"Y","N","Y",NA,NA,"Decreasing","DEV;TRA;NAT;INV;POL;CC","Housing & urban areas, roads & railroads, other ecosystem modifications, invasive non-native/alien species/diseases, problematic native species/diseases, industrial & military effluents, agricultural & forestry effluents, habitat shifting & alteration, and storms & flooding",NA,6,"Y",3.5,NA
+"Bird","Seaduck","Anatidae","Anas crecca","Eurasian teal",NA,NA,1,NA,1,4,NA,"N","N","N",NA,NA,"Unknown",NA,NA,NA,3,"N",2,NA
+"Bird","Shorebird","Ardeidae","Ardea alba","Great egret",NA,NA,1,NA,1,4,NA,"Y","N","N",NA,NA,"Unknown","CC","Habitat shifting & alteration",NA,3,"N",2,NA
+"Bird","Shorebird","Ardeidae","Ardea herodias","Great blue heron",NA,NA,1,NA,1,2,NA,"N","Y","N",NA,NA,"Increasing",NA,NA,NA,3,"N",1.33333333333333,NA
+"Bird","Seabird","Procellariidae","Ardenna gravis","Greater shearwater",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Stable","BIO","Fishing & harvesting aquatic resources",NA,3,"N",1,NA
+"Bird","Shorebird","Scolopacidae","Arenaria interpres","Ruddy turnstone",NA,NA,1,5,1,2,2,"Y","","Y",NA,NA,"Decreasing","INV;CC","Invasive non-native/alien species/diseases, viral/prion-induced diseases, and habitat shifting & alteration",NA,5,"N",2.2,NA
+"Bird","Seaduck","Anatidae","Aythya marila","Greater scaup",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;POL;CC","Oil & gas drilling, renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, industrial & military effluents, and habitat shifting & alteration",NA,3,"N",1,NA
+"Bird","Seaduck","Anatidae","Branta bernicla","Brant",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Unknown","CC","Habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Strigidae","Bubo scandiacus","Snowy owl",NA,NA,3,NA,2,4,NA,"N","N","N",NA,NA,"Decreasing","TRA;BIO;CC","Roads & railroads, utility & service lines, flight paths, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, and habitat shifting & alteration",NA,3,"N",3,NA
+"Bird","Seaduck","Anatidae","Bucephala albeola","Bufflehead",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Increasing",NA,NA,NA,3,"N",1,NA
+"Bird","Seaduck","Anatidae","Bucephala clangula","Common goldeneye",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Stable","AG;BIO;INV;POL","Wood & pulp plantations, hunting & trapping terrestrial animals, invasive non-native/alien species/diseases, and industrial & military effluents",NA,3,"N",1,NA
+"Bird","Seaduck","Anatidae","Bucephala islandica","Barrow's goldeneye",NA,NA,1,NA,1,4,NA,"N","N","N",NA,NA,"Stable","DEV;AG;BIO;NAT;INV;POL;CC","Tourism & recreation areas, wood & pulp plantations, hunting & trapping terrestrial animals, fire & fire suppression, invasive non-native/alien species/diseases, problematic native species/diseases, industrial & military effluents, and habitat shifting & alteration",NA,3,"N",2,NA
+"Bird","Shorebird","Scolopacidae","Calidris alba","Sanderling",NA,NA,1,4,1,1,NA,"Y","Y","N",NA,NA,"Unknown","CC","Habitat shifting & alteration",NA,4,"N",1.75,NA
+"Bird","Shorebird","Scolopacidae","Calidris canutus","Red knot",4,4,2,5,2,4,NA,"Y","","N",NA,NA,"Decreasing","DEV;AG;BIO;DIS;INV;POL;CC","Housing & urban areas, commercial & industrial areas, tourism & recreation areas, annual & perennial non-timber crops, marine & freshwater aquaculture, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, recreational activities, invasive non-native/alien species/diseases, viral/prion-induced diseases, industrial & military effluents, and habitat shifting & alteration","Highest priority Shorebird Plan",6,"N",3.5,NA
+"Bird","Shorebird","Scolopacidae","Calidris fuscicollis","White-rumped sandpiper",NA,NA,1,NA,1,3,NA,"N","","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration",NA,3,"N",1.66666666666667,NA
+"Bird","Shorebird","Scolopacidae","Calidris maritima","Purple sandpiper",NA,NA,1,5,1,2,4,"Y","","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration",NA,5,"N",2.6,NA
+"Bird","Shorebird","Scolopacidae","Calidris minutilla","Least sandpiper",NA,NA,1,NA,1,1,NA,"N","","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration",NA,3,"N",1,NA
+"Bird","Shorebird","Scolopacidae","Calidris pusilla","Semipalmated sandpiper",NA,NA,2,4,1,1,NA,"Y","","N",NA,NA,"Decreasing","EN;BIO;POL;CC","Oil & gas drilling, mining & quarrying, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, agricultural & forestry effluents, habitat shifting & alteration, and storms & flooding",NA,4,"N",2,NA
+"Bird","Seabird","Procellariidae","Calonectris diomedea","Scopoli's shearwater",NA,NA,1,NA,1,3,NA,"Y","N","N",NA,NA,"Decreasing","DEV;BIO;INV;POL","Housing & urban areas, fishing & harvesting aquatic resources, invasive non-native/alien species/diseases, and excess energy",NA,3,"N",1.66666666666667,NA
+"Bird","Seabird","Alcidae","Cepphus grylle","Black guillemot",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Unknown","BIO;INV;POL","Fishing & harvesting aquatic resources, invasive non-native/alien species/diseases, industrial & military effluents, and agricultural & forestry effluents",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Charadriidae","Charadrius hiaticula","Common ringed plover",NA,NA,1,NA,1,NA,NA,"N","N","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration",NA,2,"N",1,NA
+"Bird","Shorebird","Charadriidae","Charadrius melodus","Piping plover",4,4,2,5,3,4,NA,"Y","Y","N","H","Mass Audubon 2019","Increasing","DEV;DIS;INV;CC","Commercial & industrial areas, recreational activities, work & other activities, invasive non-native/alien species/diseases, problematic native species/diseases, droughts, and storms & flooding","Highest priority Waterbird Plan",6,"Y",3.66666666666667,4
+"Bird","Shorebird","Charadriidae","Charadrius semipalmatus","Semipalmated plover",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Stable","CC","Habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Charadriidae","Charadrius vociferus","Killdeer",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Decreasing",NA,NA,NA,3,"N",1,NA
+"Bird","Tern","Laridae","Chlidonias niger","Black tern",NA,NA,1,5,2,4,NA,"N","N","N",NA,NA,"Decreasing","AG;NAT;INV;CC","Annual & perennial non-timber crops, dams & water management/use, invasive non-native/alien species/diseases, and droughts",NA,4,"N",3,NA
+"Bird","Gull","Laridae","Chroicocephalus philadelphia","Bonaparte's gull",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Increasing","CC","Habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Seaduck","Anatidae","Clangula hyemalis","Long-tailed duck",NA,NA,3,NA,1,1,NA,"Y","N","N",NA,NA,"Decreasing","EN;BIO;INV;POL;CC","Oil & gas drilling, mining & quarrying, renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, invasive non-native/alien species/diseases, viral/prion-induced diseases, industrial & military effluents, and habitat shifting & alteration",NA,3,"N",1.66666666666667,NA
+"Bird","Shorebird","Ardeidae","Egretta thula","Snowy egret",NA,NA,1,5,1,4,NA,"Y","N","N",NA,NA,"Increasing",NA,NA,"Highest priority Waterbird Plan Only a few breeding colonies",4,"N",2.75,NA
+"Bird","Shorebird","Alaudidae","Eremophila alpestris","Horned lark",NA,NA,1,4,1,3,NA,"Y","N","N",NA,NA,"Decreasing","AG;INV;POL","Annual & perennial non-timber crops, livestock farming & ranching, invasive non-native/alien species/diseases, and agricultural & forestry effluents",NA,4,"N",2.25,NA
+"Bird","Shorebird","Scolopacidae","Gallinago delicata","Wilson's snipe",NA,NA,1,4,1,5,NA,"Y","","N",NA,NA,"Increasing","DEV;AG;EN","Housing & urban areas, commercial & industrial areas, annual & perennial non-timber crops, and mining & quarrying","MA Breeding Bird Atlas says local and likely increasing; also increasing on MA Breeding Bird Survey routes, but habitat is still very limited",4,"N",2.75,NA
+"Bird","Shorebird","Gaviidae","Gavia immer","Common loon",NA,3,1,5,1,4,NA,"Y","N","N",NA,NA,"Stable","BIO","Fishing & harvesting aquatic resources","Highest priority Waterbird Plan",5,"N",2.8,NA
+"Bird","Shorebird","Gaviidae","Gavia stellata","Red-throated loon",NA,NA,1,NA,1,2,NA,"Y","N","N",NA,NA,"Decreasing","EN;TRA;BIO;POL;CC","Renewable energy, shipping lanes, fishing & harvesting aquatic resources, industrial & military effluents, and habitat shifting & alteration","Highest priority Waterbird Plan",3,"N",1.33333333333333,NA
+"Bird","Shorebird","Haematopodidae","Haematopus palliatus","American oystercatcher",NA,NA,1,5,1,4,3,"Y","N","Y",NA,NA,"Stable",NA,NA,"Highest priority Waterbird Plan",5,"N",2.8,NA
+"Bird","Shorebird","Accipitridae","Haliaeetus leucocephalus","Bald eagle",NA,3,1,NA,1,4,NA,"Y","N","N","L","Mass Audubon 2019","Increasing",NA,NA,NA,4,"N",2.25,2
+"Bird","Tern","Laridae","Hydroprogne caspia","Caspian tern",NA,NA,1,NA,1,4,NA,"N","N","N",NA,NA,"Increasing","BIO;DIS","Hunting & trapping terrestrial animals and recreational activities",NA,3,"N",2,NA
+"Bird","Gull","Laridae","Larus argentatus","European herring gull",NA,NA,1,NA,1,3,NA,"Y","Y","N","L","Mass Audubon 2019","Decreasing","EN;BIO;INV;CC","Renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, problematic native species/diseases, and habitat shifting & alteration","Only a few breeding colonies",3,"N",1.66666666666667,2
+"Bird","Gull","Laridae","Larus delawarensis","Ring-billed gull",NA,NA,1,NA,1,5,NA,"N","N","N","L","Mass Audubon 2019","Increasing",NA,NA,NA,3,"N",2.33333333333333,2
+"Bird","Gull","Laridae","Larus fuscus","Lesser black-backed gull",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Increasing","BIO;POLL","Hunting & trapping terrestrial animals and agricultural & forestry effluents",NA,3,"N",2.33333333333333,NA
+"Bird","Gull","Laridae","Larus glaucoides","Iceland gull",NA,NA,1,NA,1,4,NA,"N","N","N",NA,NA,"Stable","BIO","Hunting & trapping terrestrial animals",NA,3,"N",2,NA
+"Bird","Gull","Laridae","Larus hyperboreus","Glaucous gull",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Stable",NA,NA,NA,3,"N",2.33333333333333,NA
+"Bird","Gull","Laridae","Larus marinus","Great black-backed gull",NA,NA,1,NA,1,3,NA,"Y","N","N","M","Mass Audubon 2019","Unknown","BIO","Fishing & harvesting aquatic resources","Only a few breeding colonies",3,"N",1.66666666666667,3
+"Bird","Gull","Laridae","Larus smithsonianus","American herring gull",NA,NA,1,NA,NA,NA,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;CC","Renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, and habitat shifting & alteration",NA,1,"N",1,NA
+"Bird","Gull","Laridae","Leucophaeus atricilla","Laughing gull",NA,NA,1,NA,1,4,NA,"N","N","N",NA,NA,"Increasing",NA,NA,NA,3,"N",2,NA
+"Bird","Shorebird","Scolopacidae","Limnodromus griseus","Short-billed dowitcher",NA,NA,1,NA,1,2,NA,"N","","N",NA,NA,"Decreasing",NA,NA,NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Scolopacidae","Limosa fedoa","Marbled godwit",NA,NA,1,NA,1,5,NA,"N","","N",NA,NA,"Decreasing",NA,NA,NA,3,"N",2.33333333333333,NA
+"Bird","Seaduck","Anatidae","Melanitta fusca","Velvet scoter",NA,NA,3,NA,NA,NA,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;INV;POL;CC","Oil & gas drilling, mining & quarrying, renewable energy, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, invasive non-native/alien species/diseases, viral/prion-induced diseases, industrial & military effluents, and habitat shifting & alteration",NA,1,"N",3,NA
+"Bird","Seaduck","Anatidae","Melanitta perspicillata","Surf scoter",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;POL;CC","Oil & gas drilling, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, industrial & military effluents, and habitat shifting & alteration",NA,3,"N",1,NA
+"Bird","Shorebird","Anatidae","Mergus serrator","Red-breasted merganser",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Stable","BIO","Hunting & trapping terrestrial animals",NA,3,"N",2.33333333333333,NA
+"Bird","Seabird","Sulidae","Morus bassanus","Northern gannet",NA,NA,1,NA,1,1,NA,"Y","N","N",NA,NA,"Increasing","EN;BIO;POL","Renewable energy, fishing & harvesting aquatic resources, and garbage & solid waste",NA,3,"N",1,NA
+"Bird","Shorebird","Scolopacidae","Numenius phaeopus","Eurasian whimbrel",NA,NA,1,5,1,3,2,"Y","","Y",NA,NA,"Decreasing","CC","Habitat shifting & alteration","Highest priority Shorebird Plan",5,"N",2.4,NA
+"Bird","Shorebird","Ardeidae","Nyctanassa violacea","Yellow-crowned night-heron",NA,NA,1,5,1,5,NA,"N","N","N",NA,NA,"Stable",NA,NA,NA,4,"N",3,NA
+"Bird","Shorebird","Ardeidae","Nycticorax nycticorax","Black-crowned night heron",NA,NA,1,5,1,4,NA,"Y","N","N",NA,NA,"Decreasing",NA,NA,"Highest priority Waterbird Plan, Only a few breeding colonies",4,"N",2.75,NA
+"Bird","Seabird","Hydrobatidae","Oceanites oceanicus","Wilson's storm-petrel",NA,NA,1,NA,1,1,NA,"N","N","N",NA,NA,"Stable","INV","Invasive non-native/alien species/diseases",NA,3,"N",1,NA
+"Bird","Shorebird","Pandionidae","Pandion haliaetus","Osprey",NA,NA,1,NA,1,2,NA,"N","Y","N",NA,NA,"Increasing","EN;BIO;DIS;POL","Renewable energy, hunting & trapping terrestrial animals, recreational activities, and agricultural & forestry effluents",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Phalacrocoracidae","Phalacrocorax auritus","Double-crested cormorant",NA,NA,1,NA,NA,NA,NA,"Y","Y","N",NA,NA,"Increasing","POL","Agricultural & forestry effluents","Only a few breeding colonies left",1,"N",1,NA
+"Bird","Shorebird","Phalacrocoracidae","Phalacrocorax carbo","Great cormorant",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Increasing","BIO","Fishing & harvesting aquatic resources",NA,3,"N",2.33333333333333,NA
+"Bird","Shorebird","Scolopacidae","Phalaropus lobatus","Red-necked phalarope",NA,NA,1,NA,2,2,NA,"Y","","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration and temperature extremes",NA,3,"N",1.66666666666667,NA
+"Bird","Shorebird","Threskiornithidae","Plegadis falcinellus","Glossy ibis",NA,NA,1,NA,1,4,NA,"Y","N","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration","Highest priority Waterbird Plan",3,"N",2,NA
+"Bird","Shorebird","Charadriidae","Pluvialis squatarola","Black-bellied plover",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Decreasing","DEV;AG;DIS;CC","Housing & urban areas, commercial & industrial areas, marine & freshwater aquaculture, recreational activities, and habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Podicipedidae","Podiceps auritus","Horned grebe",NA,NA,3,NA,1,1,NA,"N","N","N",NA,NA,"Decreasing","DEV;AG;BIO;DIS;NAT;INV;POL;CC","Housing & urban areas, annual & perennial non-timber crops, wood & pulp plantations, fishing & harvesting aquatic resources, recreational activities, work & other activities, dams & water management/use, invasive non-native/alien species/diseases, problematic native species/diseases, industrial & military effluents, agricultural & forestry effluents, and habitat shifting & alteration",NA,3,"N",1.66666666666667,NA
+"Bird","Shorebird","Podicipedidae","Podiceps grisegena","Red-necked grebe",NA,NA,1,NA,1,2,NA,"N","N","N",NA,NA,"Decreasing","AG;EN;BIO;INV;POL;CC","Wood & pulp plantations, marine & freshwater aquaculture, renewable energy, fishing & harvesting aquatic resources, invasive non-native/alien species/diseases,  industrial & military effluents, agricultural & forestry effluents, and habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Podicipedidae","Podilymbus podiceps","Pied-billed grebe",NA,5,1,5,1,5,NA,"Y","N","N",NA,NA,"Stable",NA,NA,"Highest priority Waterbird Plan",5,"N",3.4,NA
+"Bird","Seabird","Procellariidae","Puffinus puffinus","Manx shearwater",NA,NA,1,NA,1,NA,NA,"Y","N","N",NA,NA,"Unknown","BIO;INV;POL","Hunting & trapping terrestrial animals, invasive non-native/alien species/diseases, and excess energy",NA,2,"N",1,NA
+"Bird","Shorebird","Hirundinidae","Riparia riparia","Sand martin",NA,NA,1,NA,1,1,NA,"Y","N","N",NA,NA,"Decreasing","EN;NAT;POL;CC","Mining & quarrying, dams & water management/use, agricultural & forestry effluents, and droughts",NA,3,"N",1,NA
+"Bird","Seaduck","Anatidae","Somateria mollissima","Common eider",NA,NA,2,4,1,4,NA,"Y","N","N","M","Mass Audubon 2019","Unknown","AG;EN;BIO;DIS;INV;POL;CC","Marine & freshwater aquaculture, mining & quarrying, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, recreational activities, work & other activities, invasive non-native/alien species/diseases, problematic native species/diseases, viral/prion-induced diseases, industrial & military effluents, garbage & solid waste, and habitat shifting & alteration",NA,4,"N",2.75,3
+"Bird","Seaduck","Anatidae","Somateria spectabilis","King eider",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Decreasing","EN;BIO;POL;CC","Oil & gas drilling, hunting & trapping terrestrial animals, fishing & harvesting aquatic resources, industrial & military effluents, garbage & solid waste and habitat shifting & alteration",NA,3,"N",2.33333333333333,NA
+"Bird","Tern","Laridae","Sterna dougallii","Roseate tern",5,5,1,5,2,4,NA,"Y","N","N",NA,NA,"Unknown","BIO","Hunting & trapping terrestrial animals and fishing & harvesting aquatic resources","Highest priority Waterbird Plan",6,"N",3.66666666666667,NA
+"Bird","Tern","Laridae","Sterna forsteri","Forster's tern",NA,NA,1,NA,1,5,NA,"N","N","N",NA,NA,"Increasing",NA,NA,NA,3,"N",2.33333333333333,NA
+"Bird","Tern","Laridae","Sterna hirundo","Common tern",NA,3,1,5,1,3,NA,"Y","Y","N","L","Mass Audubon 2019","Unknown","BIO;DIS","Hunting & trapping terrestrial animals and recreational activities","Highest priority Waterbird Plan Only a few breeding colonies",5,"N",2.6,2
+"Bird","Tern","Laridae","Sternula antillarum","Least tern",NA,3,1,5,2,4,NA,"Y","N","N",NA,NA,"Decreasing","DEV;DIS;CC","Housing & urban areas, recreational activities, and habitat shifting & alteration","Highest priority Waterbird Plan Only a few breeding colonies",5,"N",3,NA
+"Bird","Shorebird","Scolopacidae","Tringa flavipes","Lesser yellowlegs",NA,NA,1,NA,1,2,NA,"N","","N",NA,NA,"Decreasing","CC","Habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Scolopacidae","Tringa melanoleuca","Greater yellowlegs",NA,NA,1,NA,1,2,NA,"N","","N",NA,NA,"Stable",NA,NA,NA,3,"N",1.33333333333333,NA
+"Bird","Shorebird","Scolopacidae","Tringa semipalmata","Willet",NA,NA,1,5,1,3,NA,"Y","","N",NA,NA,"Stable",NA,NA,"MA Breeding Bird Atlas deems it local and strongly increasing",4,"N",2.5,NA
+"Bird","Shorebird","Scolopacidae","Tringa solitaria","Solitary sandpiper",NA,NA,1,NA,1,2,NA,"N","","N",NA,NA,"Decreasing",NA,NA,NA,3,"N",1.33333333333333,NA
+"Fish","","Clupeidae","Alosa aestivalis","Blueback Herring",NA,NA,3,4,3,3,5,"Y","Y","Y","VH","Hare et al. 2016 NEVA","Decreasing","NAT;POL","Dams & water management/use, domestic & urban waste water, industrial & military effluents, and agricultural & forestry effluents",NA,5,"N",3.6,5
+"Fish","","Clupeidae","Alosa pseudoharengus","Alewife",NA,NA,1,4,1,3,2,"Y","Y","Y","VH","Hare et al. 2016 NEVA","Unknown","NAT","Dams & water management/use",NA,5,"N",2.2,5
+"Fish","","Clupeidae","Alosa sapidissima","American Shad",NA,NA,1,5,1,3,NA,"Y","Y","N","VH","Hare et al. 2016 NEVA","Unknown","BIO;NAT;POL","Fishing & harvesting aquatic resources, dams & water management/use, domestic & urban waste water, industrial & military effluents, and agricultural & forestry effluents",NA,4,"N",2.5,5
+"Fish","","Ammodytidae","Ammodytes americanus","American sand lance",NA,NA,NA,NA,1,NA,NA,"N","N","N","M","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,3
+"Fish","","Anguillidae","Anguilla rostrata","American eel",NA,NA,4,5,2,3,5,"N","Y","N","H","Hare et al. 2016 NEVA","Decreasing","BIO;NAT;INV;POL;CC","Fishing & harvesting aquatic resources, dams & water management/use, invasive non-native/alien species/diseases, domestic & urban waste water, industrial & military effluents, and habitat shifting & alteration",NA,5,"N",3.8,4
+"Fish","","Clupeidae","Clupea harengus","Atlantic Herring",NA,NA,1,NA,NA,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA","Increasing","BIO","Fishing & harvesting aquatic resources",NA,1,"N",1,2
+"Fish","","Cyclopteridae","Cyclopterus lumpus","Lumpfish",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Clupeidae","Dorosoma cepedianum","American Gizzard Shad",NA,NA,1,NA,1,2,NA,"N","Y","N",NA,NA,"Stable",NA,"Fishing & harvesting aquatic resources and dams & water management/use",NA,3,"N",1.33333333333333,NA
+"Fish","","Gadidae","Enchelyopus cimbrius","Fourbeard rockling",NA,NA,1,NA,1,NA,NA,"N","N","N",NA,NA,"Unknown",NA,NA,NA,2,"N",1,NA
+"Fish","","Fundulidae","Fundulus heteroclitus","Mummichog",NA,NA,1,NA,1,1,NA,"N","Y","N",NA,NA,"Stable",NA,NA,NA,3,"N",1,NA
+"Fish","","Fundulidae","Fundulus majalis","Killifish",NA,NA,1,NA,1,NA,NA,"N","Y","N",NA,NA,"Unknown",NA,NA,NA,2,"N",1,NA
+"Fish","","Gadidae","Gadus morhua","Atlantic Cod",NA,NA,3,NA,1,NA,NA,"N","N","N","M","Hare et al. 2016 NEVA","Unspecified",NA,NA,NA,2,"N",2,3
+"Fish","","Paralichthyidae","Hippoglossina oblonga","American fourspot flounder",NA,NA,1,NA,NA,NA,NA,"N","N","N",NA,NA,"Unknown",NA,"Fishing & harvesting aquatic resources",NA,1,"N",1,NA
+"Fish","","Pleuronectidae","Hippoglossoides platessoides","American Plaice",NA,NA,NA,NA,NA,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA",NA,NA,NA,NA,0,"N",NA,2
+"Fish","","Rajidae","Leucoraja erinacea","Little Skate",NA,NA,1,NA,1,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA","Increasing","BIO","Fishing & harvesting aquatic resources",NA,2,"N",1,2
+"Fish","","Pleuronectidae","Limanda ferruginea","Yellowtail Flounder",NA,NA,3,NA,1,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA","Unspecified",NA,NA,NA,2,"N",2,2
+"Fish","","Liparidae","Liparis atlanticus","Atlantic seasnail",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Stichaeidae","Lumpenus lampretaeformis","Snakeblenny",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Atherinopsidae","Menidia menidia","Silverside",NA,NA,1,NA,1,1,NA,"N","Y","N",NA,NA,"Stable",NA,NA,NA,3,"N",1,NA
+"Fish","","Merlucciidae","Merluccius bilinearis","Silver Hake",NA,NA,2,NA,1,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA","Unknown","BIO","Fishing & harvesting aquatic resources",NA,2,"N",1.5,2
+"Fish","","Gadidae","Microgadus tomcod","Atlantic Tomcod",NA,NA,1,NA,1,2,NA,"N","Y","N",NA,NA,"Stable",NA,NA,NA,3,"N",1.33333333333333,NA
+"Fish","","Molidae","Mola mola","Ocean Sunfish",NA,NA,3,NA,1,NA,NA,"N","N","N",NA,NA,"Decreasing","BIO","Fishing & harvesting aquatic resources",NA,2,"N",2,NA
+"Fish","","Moronidae","Morone americana","White Perch",NA,NA,1,NA,1,1,NA,"N","Y","N",NA,NA,"Stable",NA,NA,NA,3,"N",1,NA
+"Fish","","Moronidae","Morone saxatilis","Striped Bass",NA,NA,1,NA,1,1,NA,"N","Y","N","VH","Hare et al. 2016 NEVA","Unknown","BIO;NAT;POL","Fishing & harvesting aquatic resources, dams & water management/use, domestic & urban waste water, and industrial & military effluents",NA,3,"N",1,5
+"Fish","","Cottidae","Myoxocephalus aenaeus","Grubby",NA,NA,NA,NA,1,NA,NA,"N","Y","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Cottidae","Myoxocephalus octodecemspinosus","Longhorn sculpin",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Cottidae","Myoxocephalus scorpius","Shorthorn scuplin",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Osmeridae","Osmerus mordax","Rainbow Smelt",NA,NA,1,NA,1,3,NA,"N","Y","N","VH","Hare et al. 2016 NEVA","Unknown",NA,NA,NA,3,"N",1.66666666666667,5
+"Fish","","Petromyzontidae","Petromyzon marinus","Sea Lamprey",NA,NA,1,NA,1,2,NA,"Y","N","N",NA,NA,"Stable",NA,NA,NA,3,"N",1.33333333333333,NA
+"Fish","","Pholidae","Pholis gunnellus","Rock gunnel",NA,NA,NA,NA,1,NA,NA,"N","Y","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Gadidae","Pollachius virens","Pollock",NA,NA,NA,NA,1,NA,NA,"N","N","N","M","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,3
+"Fish","","Pleuronectidae","Pseudopleuronectes americanus","Winter Flounder",NA,NA,NA,NA,1,NA,NA,"N","Y","N","VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,5
+"Fish","","Salmonidae","Salvelinus fontinalis","Brook Trout",NA,NA,NA,5,1,2,NA,"Y","Y","N",NA,NA,NA,NA,NA,NA,3,"N",2.66666666666667,NA
+"Fish","","Scophthalmidae","Scophthalmus aquosus","Windowpane",NA,NA,NA,NA,1,NA,NA,"N","N","N","L","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,2
+"Fish","","Syngnathidae","Syngnathus fuscus","Northern pipefish",NA,NA,1,NA,1,1,NA,"N","Y","N",NA,NA,"Unknown","DEV;POL","Housing & urban areas, commercial & industrial areas, tourism & recreation areas, domestic & urban waste water, and agricultural & forestry effluents",NA,3,"N",1,NA
+"Fish","","Labridae","Tautoga onitis","Tautog",NA,NA,3,NA,NA,NA,NA,"N","Y","N","VH","Hare et al. 2016 NEVA","Decreasing","BIO;DIS","Fishing & harvesting aquatic resources and recreational activities",NA,1,"N",3,5
+"Fish","","Labridae","Tautogolabrus adspersus","Cunner",NA,NA,NA,NA,1,NA,NA,"N","Y","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Stichaeidae","Ulvaria subbifurcata","Radiated shanny",NA,NA,NA,NA,1,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Fish","","Zoarcidae","Zoarces americanus","Ocean pout",NA,NA,NA,NA,1,NA,NA,"N","N","N","H","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,4
+"Fish","","Zoarcidae","Zoarces viviparus","Eelpout",NA,NA,NA,NA,NA,NA,NA,"N","N","N",NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Onchidorididae","Acanthodoris pilosa","Hairy spiny doris",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Aeolidiidae","Aeolidia papillosa","Nudibranch",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Naididae","Aktedrilus monospermathecus",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Alcyonidiidae","Alcyonidium polyoum",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nereididae","Alitta succinea","Clamworm",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nereididae","Alitta virens","Sandworm/Clamworm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Vesiculariidae","Amathia gracilis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tellinidae","Ameritella agilis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ampharetidae","Ampharete finmarchica","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Balanidae","Amphibalanus eburneus","Ivory barnacle",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Balanidae","Amphibalanus improvisus","Bay barnacle",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Calloporidae","Amphiblestrum auritum","Encrusting bryozoa",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Amphiuridae","Amphipholis squamata","Dwarf (small) brittle star",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Amphiporidae","Amphiporus angulatus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Terebellidae","Amphitrite cirrata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Anomiidae","Anomia simplex","Common jingle shell",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Neanuridae","Anurida maritima","Springtail",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Hyalidae","Apohyale prevostii","Amphipod",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Arbaciidae","Arbacia punctulata","Purple sea urchin",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Arcticidae","Arctica islandica","Ocean quahog",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,0,"N",NA,5
+"Invertebrate","","Pectinidae","Argopecten irradians","Bay Scallop",NA,NA,NA,NA,1,NA,NA,"N","N",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,5
+"Invertebrate","","Paraonidae","Aricidea catherinae","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Asteriidae","Asterias forbesi","Forbes sea star/Common sea star",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Asteriidae","Asterias rubens","Northern sea star",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Asteriidae","Asterias vulgaris","Northern sea star",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Balanidae","Balanus crenatus","Acorn barnacle (spp)",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Barentsiidae","Barentsia laxa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Bateidae","Batea catharinensis",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pyramidellidae","Boonea bisuturalis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pyramidellidae","Boonea seminuda","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tonicellidae","Boreochiton ruber","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Buccinidae","Buccinum glaciale","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Viviparidae","Campeloma decisum","Pointed campeloma",NA,NA,1,NA,1,NA,NA,"N","N",NA,NA,NA,"Stable","INV","Problematic native species/diseases",NA,2,"N",1,NA
+"Invertebrate","","Cancridae","Cancer borealis","Jonah Crab",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,"M","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,3
+"Invertebrate","","Cancridae","Cancer irroratus","Rock Crab",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,"M","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,3
+"Invertebrate","","Capitellidae","Capitella capitata",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Caprellidae","Caprella equilibra","Skeleton shrimp",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Caprellidae","Caprella penantis","Skeleton shrimp",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Hippothoidae","Celleporella hyalina",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Cirratulidae","Chaetozone setosa",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Chalinidae","Chalinula loosanoffi","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pectinidae","Chlamys islandica","Iceland scallop",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Cionidae","Ciona intestinalis","Vase tunicate",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Cirratulidae","Cirriformia grandis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pectinariidae","Cistenides granulata","Tusk Cone worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Microcionidae","Clathria prolifera","Red beard sponge",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Hydractiniidae","Clava multicornis","Club hydroid",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Naididae","Clitellio arenarius",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Maldanidae","Clymenella torquata","Bamboo worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Corophiidae","Crassicorophium bonellii","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ostreidae","Crassostrea virginica","Eastern oyster",NA,NA,NA,NA,3,NA,NA,"N","Y",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"Y",3,5
+"Invertebrate","","Calyptraeidae","Crepidula convexa","Convex slippersnail",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Calyptraeidae","Crepidula fornicata","Slipper shell",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Calyptraeidae","Crepidula plana","Eastern white slippersnail / Flat slipper shell",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Crisiidae","Crisia eburnea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Bugulidae","Crisularia turrita","Fern bryozoan",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Cryptosulidae","Cryptosula pallasiana","Colonial encrusting bryozoa",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ampithoidae","Cymadusa compta",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Diastylidae","Diastylis polita","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Diastylidae","Diastylis sculpta","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Spionidae","Dipolydora quadrilobata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tubulariidae","Ectopleura crocea","Tubularian hydroid",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tubulariidae","Ectopleura larynx","Ringed tubularia",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Idoteidae","Edotia triloba","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Electridae","Einhornia crustulenta","Sea mat",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Electridae","Electra pilosa","Hairy sea mat",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Enchytraeidae","Enchytraeus albidus","White worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pharidae","Ensis ensis","Sword razor",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pharidae","Ensis leei","Atlantic jackknife clam / razor clam",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Phyllodocidae","Eteone longa","Bristle worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Thoridae","Eualus pusiolus","Doll eualid shrimp",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Eudendriidae","Eudendrium dispar","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Phyllodocidae","Eumida sanguinea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Euplanidae","Euplana gracilis","Sleder flatworm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Naticidae","Euspira heros","Northern moon snail",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Naticidae","Euspira triseriata","spotted moonsnail",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Rissoidae","Frigidoalvania carinata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Gammaridae","Gammarus mucronatus","Scud",NA,NA,NA,NA,NA,NA,NA,"N","",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Gammaridae","Gammarus oceanicus","Scud/Sideswimmers",NA,NA,NA,NA,NA,NA,NA,"N","",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephtheidae","Gersemia rubiformis","Sea strawberry",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Mytilidae","Geukensia demissa","Ribbed mussel",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Callianassidae","Gilvossius setimanus","Short-browed mud shrimp",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Planorbidae","Gyraulus parvus","ash gryo",NA,NA,1,NA,1,2,NA,"N","N",NA,NA,NA,"Stable",NA,NA,NA,3,"N",1.33333333333333,NA
+"Invertebrate","","Halichondriidae","Halichondria bowerbanki","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Halichondriidae","Halichondria panicea","Breadcrumb sponge",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Haminoeidae","Haminella solitaria","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Polynoidae","Harmothoe extenuata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Polynoidae","Harmothoe imbricata","Scale worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Phoxocephalidae","Harpinia propinqua","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Echinasteridae","Henricia sanguinolenta","Blood star",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Anomiidae","Heteranomia squamula","Prickly jingle scallop",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Mysidae","Heteromysis formosa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Hiatellidea","Hiatella arctica","Wrinkled rock borer",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephropidae","Homarus americanus","American lobster",NA,NA,1,NA,1,NA,NA,"N","Y",NA,"M","Hare et al. 2016 NEVA","Stable","BIO","Fishing & harvesting aquatic resources",NA,2,"N",1,3
+"Invertebrate","","Hydractiniidae","Hydractinia echinata","Snailfur",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Idoteidae","Idotea balthica","Baltic isopod",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Idoteidae","Idotea phosphorea",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nassariidae","Ilyanassa obsoleta","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nassariidae","Ilyanassa trivittata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Isodictyidae","Isodictya palmata","",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Janiridae","Jaera albifrons",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ischyroceridae","Jassa marmorata","Tube building amphipod",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Membraniporidae","Jellyella tuberculata","Bryozoan",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Littorinidae","Lacuna vincta","Northern lacuna",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Orbiniidae","Leitoscoloplos fragilis","Segmented worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Orbiniidae","Leitoscoloplos robustus","Segmented worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Polynoidae","Lepidonotus squamatus","Twelve-scaled worm",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Corophiidae","Leptocheirus pinguis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Leucosoleniidae","Leucosolenia botryoides","",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Epialtidae","Libinia emarginata","Spider crab",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tellinidae","Limecola balthica","Baltic macoma",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Limulidae","Limulus polyphemus","Atlantic Horseshoe crab",NA,NA,3,NA,1,NA,NA,"N","Y",NA,"VH","Hare et al. 2016 NEVA","Decreasing","BIO;NAT;CC","Fishing & harvesting aquatic resources, ecosystem modifications, habitat shifting & alteration",NA,2,"N",2,5
+"Invertebrate","","Lineidae","Lineus ruber","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Littorinidae","Littorina obtusata","Smooth periwinkle",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Littorinidae","Littorina saxatilis","Rough periwinkle",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Amnicolidae","Lyogyrus granum","squat duskysnail",NA,NA,1,NA,1,NA,NA,"N","N",NA,NA,NA,"Stable",NA,NA,NA,2,"N",1,NA
+"Invertebrate","","Lyonsiidae","Lyonsia hyalina","Glassy lyonsia",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Tellinidae","Macoma calcarea","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tellinidae","Macoma nasuta","Bent nosed clam",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Enchytraeidae","Marionina southerni",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Capitellidae","Mediomastus californiensis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ellobiidae","Melampus bidentatus","Coffee bean snail",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Melitidae","Melita nitida","Gammarid amphipod",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Veneridae","Mercenaria mercenaria","Northern quahog",NA,NA,NA,NA,1,NA,NA,"N","N",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,5
+"Invertebrate","","Metridinidae","Metridia longa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Metridinidae","Metridia lucens lucens","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Metridiidae","Metridium senile","Clonal plumose anemone/Frilled anemone",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Mytilidae","Modiolus modiolus","Northern Horse Mussel",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Corophiidae","Monocorophium insidiosum","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Myidae","Mya arenaria","Softshell clam",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,0,"Y",NA,5
+"Invertebrate","","Mytilidae","Mytilus edulis","Blue mussel",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,"VH","Hare et al. 2016 NEVA",NA,NA,NA,NA,0,"N",NA,5
+"Invertebrate","","Mysidae","Neomysis americana","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephtyidae","Nephtys caeca",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephtyidae","Nephtys ciliata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephtyidae","Nephtys incisa","Cat worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nephtyidae","Nephtys pente","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Lumbrineridae","Ninoe nigripes","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Muricidae","Nucella lapillus","Atlantic Dog Whelk",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,"Declining",0,"N",NA,NA
+"Invertebrate","","Campanulariidae","Obelia dichotoma","Sea plume",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Campanulariidae","Obelia geniculata","Knotted thread hydroid",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Oithonidae","Oithona similis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Onchidorididae","Onchidoris bilamellata","Rough-mantled doris",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Onchidorididae","Onchidoris muricata","Fuzzy onchidoris",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Opheliidae","Ophelina acuminata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ophiopholidae","Ophiopholis aculeata","Daisy brittle star",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Talitridae","Orchestia grillus","Beach hopper",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tryphosidae","Orchomenella minuta","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Ovalipidae","Ovalipes ocellatus","Lady crab",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Paguridae","Pagurus acadianus","Acadian hermit crab",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Paguridae","Pagurus longicarpus","Long-clawed hermit crab",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Paguridae","Pagurus pollicaris","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Palaemonidae","Palaemon pugio","Daggerblade grass shrimp",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Polynoidae","Palio dubia","Nudibranch",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pandalidae","Pandalus montagui","",NA,NA,NA,NA,1,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,1,"N",1,NA
+"Invertebrate","","Phyllodocidae","Paranaitis speciosa","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Syllidae","Parexogone hebes","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pectinariidae","Pectinaria gouldii","Ice Cream Cone worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Golfingiidae","Phascolopsis gouldii","Peanut worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Flabelligeridae","Pherusa affinis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Photidae","Photis pollex","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Phyllodocidae","Phyllodoce arenae","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Phyllodocidae","Phyllodoce maculata",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pectinidae","Placopecten magellanicus","Atlantic sea scallop",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,"H","Hare et al. 2016 NEVA",NA,NA,NA,NA,0,"N",NA,4
+"Invertebrate","","Talitridea","Platorchestia platensis","Sand flea",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Terebellidae","Polycirrus eximius","Bristle worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pontogeneiidae","Pontogeneia inermis","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Spionidae","Prionospio steenstrupi","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Hyalidae","Ptilohyale plumulosus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Unionidae","Pyganodon cataracta","Eastern floater",NA,NA,NA,NA,1,1,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,2,"N",1,NA
+"Invertebrate","","Rhincalanidae","Rhincalanus cornutus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Pyramidellidae","Sayella fusca","Brown sayella",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Lumbrineridae","Scoletoma verrilli","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Archaeobalanidae","Semibalanus balanoides","Northern rock barnacle",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Solasteridae","Solaster endeca","Purple sunstar",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Spionidae","Spio filicornis","Bristleworm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Spionidae","Spio setosa",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Spionidae","Spiophanes bombyx",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Serpulidae","Spirorbis spirorbis","Sinistral spiral tubeworm/Calcareous tubeworm",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Mactridae","Spisula solidissima","Atlantic surf clam",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,"H","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,4
+"Invertebrate","","Spionidae","Streblospio benedicti","Bar gilled mud worm",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Strongylocentrotidae","Strongylocentrotus droebachiensis","Green sea urchin",NA,NA,NA,NA,1,NA,NA,"N","Y",NA,"H","Hare et al. 2016 NEVA",NA,NA,NA,NA,1,"N",1,4
+"Invertebrate","","Lottidae","Testudinalia testudinalis","Common Tortoiseshell Limpet",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Cirratulidae","Tharyx acutus","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tiaropsidae","Tiaropsis multicirrata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nassariidae","Tritia obsoleta","Mud snail",NA,NA,NA,NA,NA,NA,NA,"N","Y",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Nassariidae","Tritia trivittata","Threeline mud snail",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Naididae","Tubificoides benedii",NA,NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Tubulariidae","Tubularia crocea","Tubular hydroid",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Talitridae","Uhlorchestia uhleri","Beachhopper",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Unciolidae","Unciola irrorata","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Invertebrate","","Xylophagaidae","Xylonora atlantica","",NA,NA,NA,NA,NA,NA,NA,"N","N",NA,NA,NA,NA,NA,NA,NA,0,"N",NA,NA
+"Mammal","Whale","Balaenopteridae","Balaenoptera acutorostrata","Minke whale",NA,NA,1,NA,1,3,NA,"N","N",NA,NA,NA,"Unknown","BIO","Fishing & harvesting aquatic resources",NA,3,"N",1.66666666666667,NA
+"Mammal","Whale","Balaenopteridae","Balaenoptera physalus","Fin Whale",5,5,3,5,3,4,NA,"Y","N",NA,NA,NA,"Increasing","BIO;TRA","Fishing & harvesting aquatic resources and shipping lanes",NA,6,"N",4.16666666666667,NA
+"Mammal","Whale","Balaenidae","Eubalaena glacialis","North Atlantic Right Whale",5,5,5,5,5,5,NA,"N","N",NA,NA,NA,"Decreasing","BIO;TRA;POL","Fishing & harvesting aquatic resources, shipping lanes, and excess energy",NA,4,"N",5,NA
+"Mammal","Dolphin","Delphinidae","Grampus griseus","Risso's Dolphin",NA,NA,1,NA,1,3,NA,"N","N",NA,NA,NA,"Unknown","BIO;DIS;POL;CC","Fishing & harvesting aquatic resources, recreational activities, war, civil unrest & military exercises, excess energy, and habitat shifting & alteration",NA,3,"N",1.66666666666667,NA
+"Mammal","Seal","Phocidae","Halichoerus grypus","Gray Seal",NA,NA,1,NA,1,2,NA,"N","N",NA,NA,NA,"Increasing","BIO;POL;CC","Fishing & harvesting aquatic resources, industrial & military effluents, agricultural & forestry effluents, and habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Mammal","Dolphin","Delphinidae","Lagenorhynchus acutus","Atlantic White-Sided Dolphin",NA,NA,1,NA,1,2,NA,"N","N",NA,NA,NA,"Unknown","BIO;POL;CC","Fishing & harvesting aquatic resources, garbage & solid waste, habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Mammal","Whale","Balaenopteridae","Megaptera novaeangliae","Humpback Whale",NA,5,1,5,2,4,NA,"Y","N",NA,NA,NA,"Increasing","BIO;TRA;POL;EN","Fishing & harvesting aquatic resources, shipping lanes, excess energy, and oil & gas drilling",NA,5,"N",3.4,NA
+"Mammal","Dolphin","Delphinidae","Orcinus orca","Killer Whale",5,NA,1,5,2,5,NA,"N","N",NA,NA,NA,"Unknown","EN;TRA;BIO;DIS;INV;POL;CC","Oil & gas drilling, shipping lanes, fishing & harvesting aquatic resources, recreational activities, problematic native species/diseases, industrial & military effluents, agricultural & forestry effluents, and habitat shifting & alteration.",NA,5,"N",3.6,NA
+"Mammal","Seal","Phocidae","Pagophilus groenlandicus","Harp Seal",NA,NA,1,NA,1,NA,NA,"N","N",NA,NA,NA,"Increasing","BIO;INV;POL;CC","Fishing & harvesting aquatic resources, problematic native species/diseases, viral/prion-induced diseases, industrial & military effluents, agricultural & forestry effluents, and habitat shifting & alteration",NA,2,"N",1,NA
+"Mammal","Seal","Phocidae","Phoca vitulina","Harbor Seal",NA,NA,1,NA,1,2,NA,"N","Y",NA,NA,NA,"Unknown","BIO;DEV;POL;DIS;NAT;CC","Fishing & harvesting aquatic resources, commercial & industrial areas, domestic & urban waste water, industrial & military effluents, agricultural & forestry effluents, work & other activities, dams & water management/use, and habitat shifting & alteration",NA,3,"N",1.33333333333333,NA
+"Mammal","Porpoise","Phocoenidae","Phocoena phocoena","Harbor Porpoise",NA,NA,3,NA,2,2,NA,"N","N",NA,NA,NA,"Unknown","BIO;DEV;POL","Fishing & harvesting aquatic resources, commercial & industrial areas, domestic & urban waste water, industrial & military effluents, agricultural & forestry effluents, and excess energy",NA,3,"N",2.33333333333333,NA
