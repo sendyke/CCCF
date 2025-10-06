@@ -108,7 +108,7 @@ df2 <- df %>% mutate(
 
 #Calculate the mean value (excluding NA values) from ESA, state ESA, IUCN, RSGCN, G.Rank, S.Rank, and USFWS scores:
 df3 <- df2 %>% rowwise() %>%
-  mutate(Rank = mean(c_across(6:12), na.rm = TRUE)) %>%
+  mutate(Conservation.Rank = mean(c_across(6:12), na.rm = TRUE)) %>%
   ungroup()
 
 ################################################################
@@ -116,14 +116,27 @@ df3 <- df2 %>% rowwise() %>%
 ################################################################
 #Turn values into their rankings
 df4 <- df3 %>% mutate(
-  "Climate Vulnerability" = case_when(
-    CCVA == "VH" ~ 5,
-    CCVA == "H" ~ 4,
-    CCVA == "M" ~ 3,
-    CCVA == "L" ~ 2))
+  "CCVA" = case_when(
+    CCVA == "VH" ~ 4,
+    CCVA == "H" ~ 3,
+    CCVA == "M" ~ 2,
+    CCVA == "L" ~ 1),
+  "Thresholds" = case_when(
+    Thresholds == "Y" ~ 2))
+
+#Create a new column that assigns value to 2 if "CC" exists in threats the string
+df4$Threats_CC <- ifelse(grepl("CC", df4$Threats), 2, NA)
+
+#Move Threats_CC column to the 18th column
+df4 <- df4[,c(1:17,26,18:25)]
+
+#Calculate the mean value (excluding NA values) from CCVA, thresholds, and threats scores:
+df5 <- df4 %>% rowwise() %>%
+  mutate(Climate.Rank = mean(c_across(16:18), na.rm = TRUE)) %>%
+  ungroup()
 
 ################################################################
 # (4) Collating and saving dataframe ----
 ################################################################
-write.csv(df4, file="CCCF_data.csv", row.names = F)
+write.csv(df5, file="CCCF_data.csv", row.names = F)
 
